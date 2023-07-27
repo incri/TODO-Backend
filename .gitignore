@@ -10,6 +10,7 @@ __pycache__/
 .Python
 .vscode/
 config.py
+alembic.ini
 build/
 develop-eggs/
 dist/
